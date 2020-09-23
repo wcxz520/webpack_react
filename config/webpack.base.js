@@ -42,8 +42,6 @@ module.exports = {
           //     },
           //   },
           // },
-          // 'less-loader',
-          // 'less-loader',
           {
             loader: 'less-loader',
             options: {
